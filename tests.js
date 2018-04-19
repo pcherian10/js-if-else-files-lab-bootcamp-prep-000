@@ -10,7 +10,7 @@ else {
 
 
 
-if (index.height === 70) {
+if (index.height === "70") {
     console.log("The height is correct")
 } 
 else {
